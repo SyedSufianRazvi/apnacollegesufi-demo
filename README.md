@@ -1,4 +1,4 @@
 # apnacollegesufi-demo
 This is my first Git Repository.
 <br>
-Author - Sufian
+Author - Sufian (Apna college)
